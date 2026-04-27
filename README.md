@@ -40,3 +40,4 @@ maifro
 - Shopifyテーマカスタマイズ
 - ノーコード編集
 ## 画面イメージ
+<img width="1913" height="795" alt="image" src="https://github.com/user-attachments/assets/05967c53-77ab-4cc1-b50a-5a3bb35b5ada" />
